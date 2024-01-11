@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_kmf_module_key_policy">
+    <sys_kmf_module_key_policy action="INSERT_OR_UPDATE">
+        <crypto_module display_value="devops_data_model">34bf711feb143110c23fec8e42522809</crypto_module>
+        <key_type display_value="Symmetric Data Encryption Key">1c38f324c7003300af4d43c6f097636e</key_type>
+        <last_enforced>2024-01-09 09:26:24</last_enforced>
+        <result>reject</result>
+        <sys_class_name>sys_kmf_module_key_policy</sys_class_name>
+        <sys_created_by>visrivas</sys_created_by>
+        <sys_created_on>2024-01-09 09:26:24</sys_created_on>
+        <sys_id>b7eaa63697efb110b80bffa8c253afe1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="devops_vishal" source="x_akt_devops_visha">d2d7bc5d976bb150b80bffa8c253af22</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="devops_vishal">d2d7bc5d976bb150b80bffa8c253af22</sys_scope>
+        <sys_update_name>sys_kmf_module_key_policy_b7eaa63697efb110b80bffa8c253afe1</sys_update_name>
+        <sys_updated_by>visrivas</sys_updated_by>
+        <sys_updated_on>2024-01-09 09:26:24</sys_updated_on>
+    </sys_kmf_module_key_policy>
+</record_update>

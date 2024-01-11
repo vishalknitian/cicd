@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="connection_alias" label="Connection" language="en" table="sys_data_source">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>connection_alias</element>
+            <help/>
+            <hint>The Connection Alias to use, must be the same alias used by the Data Stream action or one of its child aliases</hint>
+            <label>Connection</label>
+            <language>en</language>
+            <name>sys_data_source</name>
+            <plural>Connections</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>visrivas</sys_created_by>
+            <sys_created_on>2024-01-05 07:31:09</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Connection</sys_name>
+            <sys_package display_value="devops_vishal" source="x_akt_devops_visha">d2d7bc5d976bb150b80bffa8c253af22</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="devops_vishal">d2d7bc5d976bb150b80bffa8c253af22</sys_scope>
+            <sys_update_name>sys_documentation_sys_data_source_connection_alias_en</sys_update_name>
+            <sys_updated_by>visrivas</sys_updated_by>
+            <sys_updated_on>2024-01-05 07:31:09</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

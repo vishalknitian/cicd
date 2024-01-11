@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Data Source</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Data Source</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Application File" name="Application File">0e2a035297213110b80bffa8c253afd0</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>visrivas</sys_created_by>
+        <sys_created_on>2024-01-05 07:31:09</sys_created_on>
+        <sys_id>203aed29972ff150b80bffa8c253affe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Data Source</sys_name>
+        <sys_package display_value="devops_vishal" source="x_akt_devops_visha">d2d7bc5d976bb150b80bffa8c253af22</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="devops_vishal">d2d7bc5d976bb150b80bffa8c253af22</sys_scope>
+        <sys_update_name>sys_wizard_answer_203aed29972ff150b80bffa8c253affe</sys_update_name>
+        <sys_updated_by>visrivas</sys_updated_by>
+        <sys_updated_on>2024-01-05 07:31:09</sys_updated_on>
+        <table/>
+        <target_url>sys_data_source.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>
