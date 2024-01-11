@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_kmf_crypto_caller_policy">
+    <sys_kmf_crypto_caller_policy action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <approval_type/>
+        <check_script_hash>false</check_script_hash>
+        <crypto_module display_value="com_glide_external_app_glideencrypter">df93a2415322201040d8ddeeff7b1251</crypto_module>
+        <crypto_spec display_value="com_glide_external_app_glideencrypter --- Symmetric Key Wrapping/Unwrapping">a393a2415322201040d8ddeeff7b1254</crypto_spec>
+        <granular_operation/>
+        <identity_group_alias/>
+        <impersonation>false</impersonation>
+        <instance_recipient/>
+        <owner>3a87f6121b65fd14fe1b43f4bd4bcb65</owner>
+        <policy_name>AutoGen-script-9d438fbc938010106ebb3511e57ffb0d-global.com_glide_external_app_glideencrypter</policy_name>
+        <result>track</result>
+        <script_hash>zX0GaRoGtCK82MfEcgHbRhkoV8BoYZlkQCx24YTTXI0=</script_hash>
+        <script_table>sys_script_include</script_table>
+        <signature_data/>
+        <specify_purpose>false</specify_purpose>
+        <sys_class_name>sys_kmf_crypto_caller_policy</sys_class_name>
+        <sys_created_by>visrivas</sys_created_by>
+        <sys_created_on>2024-01-09 09:29:17</sys_created_on>
+        <sys_id>ce9b62f697efb110b80bffa8c253afaf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="devops_vishal" source="x_akt_devops_visha">d2d7bc5d976bb150b80bffa8c253af22</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="devops_vishal">d2d7bc5d976bb150b80bffa8c253af22</sys_scope>
+        <sys_update_name>sys_kmf_crypto_caller_policy_ce9b62f697efb110b80bffa8c253afaf</sys_update_name>
+        <sys_updated_by>visrivas</sys_updated_by>
+        <sys_updated_on>2024-01-09 09:29:17</sys_updated_on>
+        <target_role/>
+        <target_scope/>
+        <target_script>9d438fbc938010106ebb3511e57ffb0d</target_script>
+        <type>1</type>
+        <used>false</used>
+    </sys_kmf_crypto_caller_policy>
+</record_update>
